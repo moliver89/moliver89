@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I am Currently certificated as Full Stack Web Developer from Hack A Boss.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 👨‍💻 &nbsp;I'm searching for a job where I can develop my new acquired skills.\
 🌱 &nbsp;Always looking forward to personal growth and learning both hard and soft skills.\
 ✍️ &nbsp;Well experienced on people treatment and team work, I consider myself with leadership capacity, always looking for nice working enviroments.\
