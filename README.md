@@ -1,6 +1,6 @@
 ## Hi there, I'm Mauro 👋
 
-![Banner para github](https://github.com/moliver89/moliver89/blob/main/src/Banner%20para%20github.png)
+![Banner para github](src/Banner para github.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
