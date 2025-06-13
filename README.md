@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can email me at olivermauro@outlook.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/moliverg/) for more details about me.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moliver89)]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moliver89)]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moliver89&layout=compact)
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
