@@ -13,12 +13,14 @@
 ✉️ &nbsp;You can email me at olivermauro@outlook.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/moliverg/) for more details about me.
 
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moliver89&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-    <img height=180em src='https://github-readme-stats.vercel.app/api/top-langs/?username=moliver89&layout=compact'/>
+### 🔗 &nbsp;My Portfolio
+<p align="left">
+    <a href="https://moliverdev.netlify.app/" >
+        <img height="180em" src="src/portfolio-preview.png">
+    </a>
 </p>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -50,9 +52,14 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-<p>
-    <img height=180em alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  align="center"/>
+
+### ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+    <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=moliver89&layout=compact'/>
 </p>
+<!-- <p>
+    <img height=180em alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  align="center"/>
+</p> -->
 <!--
 ### ⚙️ &nbsp;GitHub Analytics
 
